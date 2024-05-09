@@ -74,7 +74,7 @@ The performance tracker showed that the employees under the age group of 24 with
 
 Detailed analysis (with visualization) is explained in detail below:
 #### Overview: 
--	The company has over 1420 total employees, 1233 were active and 237 employees left the company voluntarily. 
+-	The company has over 1470 total employees, 1233 were active and 237 employees left the company voluntarily. 
 -	The company had higher headcounts in technology (67%) than sales (29%) and HR (4%).
 -	The sales department had the highest turnover rate of 21%, especially during 2013, 2018, & 2020. Then the HR department had a 19% turnover rate during the same period.  The technology department had a high number of new hires and a 14% turnover rate every year except 2015 & 2017.
 -	Over the past few years, from 2012 to 2022, every year company hired new employees with the highest number of new hires in 2022, and most left the company during 2020 contributing to a 22% attrition rate. So, in 2020, the Covid-19 pandemic affected millions of people worldwide so that can be one of the reasons. 
