@@ -65,7 +65,7 @@ Data Analysis involved exploring the HR data to answer key questions, such as:
 
 The Analysis results are summarized as follows: 
 - The company had an almost equal number of males, females, and others from all ethnic groups. 
-  This indicates the company promotes a diverse, inclusive, and more balanced workforce. 
+  This indicates the company promoted and achieved a diverse, inclusive, and more balanced workforce. 
 -	Company showing turnover rate of 16%. It was high during 2016 & 2020. 
 -	The sales department followed by the HR department showed the highest turnover rates especially employees working as a Sales Representative and recruiter positions.
 -	The age group of 30 or less, male and single especially those working overtime and frequent travellers showed the highest turnover.
@@ -74,34 +74,35 @@ The performance tracker showed that the employees under the age group of 24 with
 
 Detailed analysis (with visualization) is explained in detail below:
 #### Overview: 
--	The company has over 1470 total employees, 1233 were active and 237 employees left the company voluntarily. 
+-	The company had over 1470 total employees, 1233 were active and 237 employees left the company. 
 -	The company had higher headcounts in technology (67%) than sales (29%) and HR (4%).
 -	The sales department had the highest turnover rate of 21%, especially during 2013, 2018, & 2020. Then the HR department had a 19% turnover rate during the same period.  The technology department had a high number of new hires and a 14% turnover rate every year except 2015 & 2017.
--	Over the past few years, from 2012 to 2022, every year company hired new employees with the highest number of new hires in 2022, and most left the company during 2020 contributing to a 22% attrition rate. So, in 2020, the Covid-19 pandemic affected millions of people worldwide so that can be one of the reasons. 
+-	Over the past few years, from 2012 to 2022, every year company hired new employees with the highest number of new hires in 2022, and most left the company during 2020 contributing to a 22% attrition rate. So, in 2020, the Covid-19 pandemic affected millions of people worldwide so that can be one of the reasons.
+  
 ![Overview 1](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/e4b5dfa2-9304-4b12-988d-a6cdd560c4a1)
 
--	The second highest attrition was in 2016, so need to check what happened during 2016 that caused 21% turnover as it can help us identify root causes, adding it to a risk register that will help us prevent similar situations in the future.
+-	The second highest attrition was in 2016, so need to check what happened during 2016 that caused 21% turnover. It can help the company to identify root causes, adding it to a risk register that will help the company prevent similar situations in the future.
 -	Also, 2015 & 2017 had good retention rates so need to check those situations that influenced employee retention.
 
 ![Overview 2](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/b5b22328-1b9d-4faa-9ba8-a2dcd5357e5b)
 
 #### Demographic Segmentation Analysis :
--	The company has more employees in the Age group of 30 and less. Therefore the same age group contributes to a high (77%) turnover in the same age group especially those who are single and male.  
--	Females are more than males by 2.7%. Non-binary employees make up to 8.5% of total employees. So Company has achieved its mission of creating a balanced, diverse, and inclusive workforce.
--	However, the company has more white-origin(59%) employees and has the highest average salary of $115K or more. Multiple or mixed groups have the lowest average salary of $106K. 
+-	The company had more employees in the Age group of 30 and less. Therefore the same age group contributed to a high (77%) turnover in the same age group especially those who were single and male.  
+-	Females were more than males by 2.7%. Non-binary employees made up 8.5% of total employees. So Company had achieved its mission of creating a balanced, diverse, and inclusive workforce.
+-	However, the company had more white-origin(59%) employees and had the highest average salary of $115K or more. Multiple or mixed groups had the lowest average salary of $106K. 
 
 ![Demo 1](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/fc412b6f-6390-4c7f-b41f-8c3b238c1b00)
 
--	Interestingly, White employees who left the company had an average salary of $92K which is higher than the mixed group with the lowest average salary of $57K. So, this somehow indicates that Multiple and mixed groups may be feeling underpaid. 
+-	Interestingly, White employees who left the company had an average salary of $92K which was higher than the mixed group with the lowest average salary of $57K. So, this indicated that Multiple and mixed groups might feel underpaid. 
 -	54% of Single Employees that left had the lowest salary of 45K within Multiple and mixed age groups and had the lowest salary of 84K in white ethnicity.
 
 ![Demo 2](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/edee7fdd-598a-4560-a1e5-9eafa035c982)
 
 
 #### Attrition Analysis:
--	The company has on average 16% attrition rate.
+-	The company had on average 16% attrition rate.
 -	As analyzed previously, the Sales department had the highest 21% attrition rate. The Sales representatives, followed by the recruiter and data scientist were more likely to leave the company.
--	It is also notable that recent employees with less tenure than 2 years are more likely to leave.
+-	It is also notable that recent employees with less tenure than 2 years were more likely to leave.
 -	Interestingly, the employees who needed to travel more frequently had the highest attrition rate despite only making 19% of new hires.
 
 ![Att 1](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/0160395b-12f3-4b36-b7d9-e5b7af36eaf8)
@@ -113,8 +114,9 @@ Detailed analysis (with visualization) is explained in detail below:
 ![Att 2](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/74693529-59da-42c5-a414-aa2cc7f35e03)
 
 #### Performance Analysis:
+
 -	Performance analysis shows employee engagement, satisfaction, and performance ratings. 
--	For instance, Celestine joined the company in 2017 and was showing good job and relationship satisfaction. They were showing the highest job, environment, relationship, and work-life balance. Therefore showed better performance over the years and the company was able to retain her over the years.
+-	For instance, Celestine joined the company in 2017 and was showing good job and relationship satisfaction. They were showing the highest job, environment, relationship, and work-life balance. Therefore showed better performance over the years and the company was able to retain them over the years.
   
 ![Performance 1](https://github.com/SmitaPinjan/People-Analytics--Employee-Turnover-Performance-Analysis/assets/152721562/9b3bee45-4a03-42b5-9bc9-887f18ac40ec)
  
