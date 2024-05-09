@@ -64,13 +64,12 @@ Data Analysis involved exploring the HR data to answer key questions, such as:
 ### Insights
 
 The Analysis results are summarized as follows: 
-- The company had an almost equal number of males, females, and others from all ethnic groups. 
-  This indicates the company promoted and achieved a diverse, inclusive, and more balanced workforce. 
--	Company showing turnover rate of 16%. It was high during 2016 & 2020. 
--	The sales department followed by the HR department showed the highest turnover rates especially employees working as a Sales Representative and recruiter positions.
--	The age group of 30 or less, male and single especially those working overtime and frequent travellers showed the highest turnover.
--	Multiple & mixed groups showed the lowest salary which may be indicative of compensation bias.
-The performance tracker showed that the employees under the age group of 24 with the highest satisfaction in terms of “Job”, “Environment”, “Relationship” and “Work-life balance”  showed the highest performance over the year and the company was able to retain them.
+##### The company had an almost equal number of males, females, and others from all ethnic groups. This indicates the company promoted and achieved a diverse, inclusive, and more balanced workforce. 
+##### Company showing turnover rate of 16%. It was high during 2016 & 2020. 
+##### The sales department followed by the HR department showed the highest turnover rates especially employees working as a Sales Representative and recruiter positions.
+##### The age group of 30 or less, male and single especially those working overtime and frequent travellers showed the highest turnover.
+##### Multiple & mixed groups showed the lowest salary which may be indicative of compensation bias.
+##### The performance tracker showed that the employees under the age group of 24 with the highest satisfaction in terms of “Job”, “Environment”, “Relationship” and “Work-life balance”  showed the highest performance over the year and the company was able to retain them.
 
 Detailed analysis (with visualization) is explained in detail below:
 #### Overview: 
