@@ -33,7 +33,7 @@ People analytics helps business leaders, HR partners, and stakeholders to make i
 
 ### Data Sources 
 
-- HR Data: The primary datasets used for this analysis are different Excel files containing employee information. One is the fact table and the other represents the dimension tables. This project was a capstone project, part of the DataCamp PowerBI advanced skill development course. The data is taken from the Datacamp. 
+- HR Data: The primary datasets used for this analysis are different Excel files containing employee information. One is the fact table and the other represents the dimension tables. This project was a capstone project of advanced skill development course. 
 
 ### Tools 
 Tools used for Data Cleaning, Data Analysis, and Report generation :
@@ -130,16 +130,15 @@ Detailed analysis (with visualization) is explained in detail below:
 ### Recommendations
 
 Based on the analysis, I recommend the following actions:
--	The company must focus on employees under the age group of 30 working overtime and may need to travel frequently. 
+-	The company must focus on employees under 30 working overtime and may need to travel frequently. 
 - The company should check and provide fair compensation to all employees based on their job responsibilities, tenure, and performance irrespective of ethical groups, gender, or age.
 -	The company should investigate the events that happened during 2013, 2016 & 2020 to analyze and improve the company environment for better retention. It may be reorganizing, downsizing, management change, the COVID-19 pandemic, or any such events that affect the company’s retention rate.
 -	for employee retention, Management can look into deploying some new measures, programs, perks, or benefits for existing employees to ensure they will not leave the company.
 -	The company should reward the well-performing employee. 
--	Employees who travel more frequently and work overtime, HR should review the travel and overtime work policies. Survey to understand how employees feel about travel frequency, working overtime, work settings, and need for learning plans. 
+-	HR should review the travel and overtime policies for employees who travel more frequently and work overtime. Survey to understand how employees feel about travel frequency, working overtime, work settings, and need for learning plans. 
 -	If any employee shows reduced performance or engagement and satisfaction then the team lead or HR manager should arrange a meeting and discuss their needs, and concerns, and develop a personalized improvement and career development plan. 
 -	Monitor them for the next 6 months for increased engagement and performance. After 6 months again conduct a meeting and share the feedback.
--	Implement a strategy that focuses on providing quality work, job, and environment and offering a work-life balance to improve hiring and retain talented employees.
+-	Implement a strategy that provides quality work, job, and environment and offers a work-life balance to improve hiring and retain talented employees.
 
 ### References
-- DataCamp
 - Microsoft guide for Power BI
